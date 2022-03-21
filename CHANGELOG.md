@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/TMWare/semantic-release-npm-github-publish/compare/v1.5.0...v1.5.1) (2022-03-21)
+
+
+### fix
+
+* package.json & yarn.lock to reduce vulnerabilities ([57f63a7](https://github.com/TMWare/semantic-release-npm-github-publish/commit/57f63a731914c8b718efc663c162b804e929bd40))
+
 # [1.5.0](https://github.com/TMWare/semantic-release-npm-github-publish/compare/v1.4.4...v1.5.0) (2021-12-16)
 
 
