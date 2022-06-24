@@ -1,3 +1,17 @@
+## [1.5.2](https://github.com/TMWare/semantic-release-npm-github-publish/compare/v1.5.1...v1.5.2) (2022-03-24)
+
+
+### fix
+
+* upgrade snyk from 1.794.0 to 1.859.0 ([b18813d](https://github.com/TMWare/semantic-release-npm-github-publish/commit/b18813dfb3dcacb6f02ee379fb2677b95ac7eafa))
+
+## [1.5.1](https://github.com/TMWare/semantic-release-npm-github-publish/compare/v1.5.0...v1.5.1) (2022-03-21)
+
+
+### fix
+
+* package.json & yarn.lock to reduce vulnerabilities ([57f63a7](https://github.com/TMWare/semantic-release-npm-github-publish/commit/57f63a731914c8b718efc663c162b804e929bd40))
+
 # [1.5.0](https://github.com/TMWare/semantic-release-npm-github-publish/compare/v1.4.4...v1.5.0) (2021-12-16)
 
 
