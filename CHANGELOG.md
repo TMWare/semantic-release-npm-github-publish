@@ -1,3 +1,10 @@
+## [1.5.4](https://github.com/TMWare/semantic-release-npm-github-publish/compare/v1.5.3...v1.5.4) (2022-06-24)
+
+
+### fix
+
+* **deps:** upgrade yarn lock file ([ab9d07d](https://github.com/TMWare/semantic-release-npm-github-publish/commit/ab9d07d986cdcef8c088a5612d753e4f4116573c))
+
 ## [1.5.3](https://github.com/TMWare/semantic-release-npm-github-publish/compare/v1.5.2...v1.5.3) (2022-06-24)
 
 
