@@ -1,3 +1,10 @@
+## [1.5.3](https://github.com/TMWare/semantic-release-npm-github-publish/compare/v1.5.2...v1.5.3) (2022-06-24)
+
+
+### fix
+
+* **deps:** upgrade packages ([cb94df2](https://github.com/TMWare/semantic-release-npm-github-publish/commit/cb94df27c4d4feb7ebd9f26c40feb2076261ee04))
+
 ## [1.5.2](https://github.com/TMWare/semantic-release-npm-github-publish/compare/v1.5.1...v1.5.2) (2022-03-24)
 
 
