@@ -1,3 +1,15 @@
+## [1.5.5](https://github.com/TMWare/semantic-release-npm-github-publish/compare/v1.5.4...v1.5.5) (2022-09-03)
+
+
+### chore
+
+* **deps:** upgrade dependencies ([290ae33](https://github.com/TMWare/semantic-release-npm-github-publish/commit/290ae337461b5755e3b2e039f6644ddfd9e3abf7))
+
+
+### ci
+
+* run snyk test before release ([68ee0c3](https://github.com/TMWare/semantic-release-npm-github-publish/commit/68ee0c308c90937eda979b0a9d14cfb0eb44f329))
+
 ## [1.5.4](https://github.com/TMWare/semantic-release-npm-github-publish/compare/v1.5.3...v1.5.4) (2022-06-24)
 
 
