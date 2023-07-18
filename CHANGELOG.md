@@ -1,3 +1,24 @@
+## [1.5.6](https://github.com/TMWare/semantic-release-npm-github-publish/compare/v1.5.5...v1.5.6) (2023-07-18)
+
+
+### chore
+
+* bump node version to 18 ([1c2a8e9](https://github.com/TMWare/semantic-release-npm-github-publish/commit/1c2a8e956a612ce4b63a52cf179ce534befd9d93))
+* configure renovate ([7190882](https://github.com/TMWare/semantic-release-npm-github-publish/commit/71908821db3eeedcc97726a975f77d544f0b576e))
+* **deps:** upgrade all ([5c07c37](https://github.com/TMWare/semantic-release-npm-github-publish/commit/5c07c37ea9946901511c3f5c628398c76be7a6b8))
+* lock yarn version ([5a2d002](https://github.com/TMWare/semantic-release-npm-github-publish/commit/5a2d002fe1a9ad305cfcd490b06a83b546f1dabc))
+
+
+### ci
+
+* run snyk test via npx ([b3a8bd3](https://github.com/TMWare/semantic-release-npm-github-publish/commit/b3a8bd33e9caa29b425eb236e42ac753a8d94a44))
+* update workflows ([258bcd3](https://github.com/TMWare/semantic-release-npm-github-publish/commit/258bcd3edcc7a6fbd078f742c14c24c46c351b55))
+
+
+### style
+
+* run prettier ([587903b](https://github.com/TMWare/semantic-release-npm-github-publish/commit/587903be48c7fe9cbf17277e18e4dab7d81b533d))
+
 ## [1.5.5](https://github.com/TMWare/semantic-release-npm-github-publish/compare/v1.5.4...v1.5.5) (2022-09-03)
 
 
