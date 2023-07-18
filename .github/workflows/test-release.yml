@@ -26,4 +26,4 @@ jobs:
       - name: Snyk Test
         env:
           CI: true
-        run: yarn snyk test --token "${{ secrets.SNYK_TOKEN }}"
+        run: npx --yes snyk test --token "${{ secrets.SNYK_TOKEN }}"
